@@ -1,0 +1,11 @@
+path: .
+
+train: train/images
+val: valid/images
+test: test_own/images
+
+nc: 3
+names:
+  0: apple
+  1: banana
+  2: orange
